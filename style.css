@@ -18,7 +18,7 @@
     width: 140px;
 }
 .logo {
-   background-image: url(logo.png);
+   background-image: url(imgs/logo.png);
    background-size: cover;
    height: 50px;
    width: 100%;
@@ -132,7 +132,7 @@
 
 /* hero section */
 .hero-section {
-    background-image: url(Heroimage1.jpg);
+    background-image: url(imgs/Heroimage1.jpg);
     height: 400px;
     background-size: cover;
     display: flex;
@@ -171,7 +171,7 @@
     margin-top: 15px;
 }
  .box-img {
-    height: 250px;
+    height: 230px;
     background-size: cover;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -210,7 +210,8 @@
     justify-content:center ;
     align-items: center;
     font-size: 1.25rem;
-
+    text-decoration:none;
+    text-decoration-color: #cccccc;
 }
 .foot-panel2{
     background-color: #222f3d;
